@@ -1,0 +1,3 @@
+[submodule "external/baseclasses"]
+	path = external/baseclasses
+	url = https://github.com/kirikiroid3/baseclasses.git
