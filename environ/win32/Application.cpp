@@ -40,7 +40,7 @@
 
 #pragma comment(lib,"dbghelp.lib")
 
-#pragma comment (lib, "onig.lib")
+// #pragma comment (lib, "onig.lib")
 
 tTVPApplication* Application;
 #ifdef TJS_64BIT_OS

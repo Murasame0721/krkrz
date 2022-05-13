@@ -13,7 +13,7 @@
 
 #ifndef TJS_NO_REGEXP
 #define ONIG_EXTERN extern
-#include "oniguruma.h"
+#include <oniguruma.h>
 #include "tjsNative.h"
 
 namespace TJS
